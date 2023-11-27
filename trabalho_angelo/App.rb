@@ -1,4 +1,4 @@
-# trabalho2.rb
+
 require_relative 'estrategias'
 require_relative 'produtos'
 require_relative 'carrinho_de_compras'
